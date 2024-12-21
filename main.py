@@ -1,6 +1,8 @@
 import time
 import os
 
+os.system('title syphoncore company - Discord Webhook Spammer')
+
 statement = '''
 [2024] syphoncore company
 
@@ -95,7 +97,7 @@ if __name__ == "__main__":
     MESSAGE = input(Fore.WHITE + "Enter the message to send >>> ")
     USERNAME = input(Fore.WHITE + "Enter the username to display (optional, press Enter to skip) >>> ") or None
     AVATAR_URL = input(Fore.WHITE + "Enter the avatar URL (optional, press Enter to skip) >>> ") or None
-    REPEAT_COUNT = int(input(Fore.WHITE + "Enter how many times you want the message repeated >>> "))
+    REPEAT_COUNT = int(input(Fore.WHITE + "Enter how many times you want the message spammed >>> "))
 
     for i in range(1, REPEAT_COUNT + 1):
         send_webhook_message(WEBHOOK_URL, MESSAGE, i, USERNAME, AVATAR_URL)
