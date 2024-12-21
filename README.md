@@ -1,0 +1,2 @@
+# discordwebhookspam
+spams discord webhooks
