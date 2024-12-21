@@ -1,6 +1,6 @@
 # Discord Webhook Spammer
 
-Download Link: [Here]
+Download Link: [Here](https://github.com/cycling99/discordwebhookspam/blob/main/main.py)
 
 This can send a message every .500ms (half a second)
 
