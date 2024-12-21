@@ -1,4 +1,4 @@
-# Roblox Mass Ranker/Group Abuser
+# Discord Webhook Spammer
 
 Download Link: [Here]
 
